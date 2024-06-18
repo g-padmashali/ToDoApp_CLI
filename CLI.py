@@ -57,7 +57,7 @@ import time
 # Main program begins here    
 
 current_time = time.strftime("%A, %b %d, %Y - %H:%M:%S")
-print("The current time is shown below")
+print("Current time:")
 print("Today is ", current_time)
 
 functions.user_guidelines()   # how to use the ToDo program
